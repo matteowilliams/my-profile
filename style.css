@@ -1,0 +1,59 @@
+/* Colors and Fonts */
+body {
+	background: rgb(240, 240, 240); 
+    color: rgb(50, 50, 50);
+    text-align: center;
+font-family: Helvetica;
+font-size: 16px;
+}
+
+h1,h2,h3{
+	font-family: Oswald;
+}
+h1{
+color: skyblue;
+font-family: Oswald;
+font-size: 36px;
+}
+h2{
+color: rgb(100, 100, 100);
+font-family: Oswald;
+font-size: 24px;
+font-weight: lighter;
+}
+
+a {
+	text-decoration: none;
+	color: steelblue;
+}
+a:hover{
+	color: steelblue;
+}
+h2 {
+	background: lightgrey;
+	border: 3px blue;
+	font-size: 25px;
+	margin: 10px;
+}
+.image-circle {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	border-radius: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}	
+#images-list {
+	list-style: none;
+	padding: 0;
+}
+#images-list li {
+	display: inline;
+}
+i {
+	color: darkblue;
+}
+li a {
+	color: darkblue;
+	text-decoration: none;
+}
+p 
